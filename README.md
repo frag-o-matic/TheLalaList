@@ -24,11 +24,6 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a related idea to blacklists: refuse to interview anyone who can&#39;t join within a month. Don&#39;t even waste time. If that person really wants to move on, let them put in their papers</p>&mdash; Raveesh Bhalla (@raveeshbhalla) <a href="https://twitter.com/raveeshbhalla/status/973476898167603201?ref_src=twsrc%5Etfw">March 13, 2018</a></blockquote>
 
-## [MadStreetDen](https://www.madstreetden.com/) 
-
-(Diversity over merit)
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Yo tweeps know women in backend/DevOps looking for positions? Hiring for 1 of the most challenging roles, scaling our AI platform globally</p>&mdash; ashwini asokan (@LadyAshBorg) <a href="https://twitter.com/LadyAshBorg/status/829234320141328384?ref_src=twsrc%5Etfw">8 February 2017</a></blockquote>
 
 ## [Bank On Cube](https://www.bankoncube.com/) 
 
