@@ -37,3 +37,15 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 (Apparently, younger people don't need a life. Thanks to <a href="https://twitter.com/harshalbot">@harshalbot</a>)
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">While I am all for work-life balance, when you are just starting off in your career, you should just put in the hours.</p>&mdash; Sanket Nadhani (@sanketnadhani) <a href="https://twitter.com/sanketnadhani/status/996725813385949184?ref_src=twsrc%5Etfw">16 May 2018</a></blockquote>
+
+## [Socialcops](https://socialcops.com/)
+
+> Last I checked, it was 3:07 am. I’ve been working since 11 am yesterday, and I’ll likely be in the office until 6 am when I’ll walk home, fall asleep for a few hours, and come back to do it all over again.
+
+> In a company survey, we learned that SocialCops employees pull an average of 5 all-nighters per month and work about 60 hours per week. Our office is open 24 hours a day, 7 days a week, and someone is usually working in the office at any given time, be it a Sunday afternoon or Friday evening.
+
+> Deepu often comes to work at 4 pm and leaves around 5 am. Krishna, another engineer, loves working in long continuous stretches — several days straight spent in the office alternating coding and Xbox — followed by a full day at home
+
+https://inc42.com/resources/socialcops-culture/
+https://www.slideshare.net/socialcops/socialcops-culture-and-values/27?src=clipshare
+![](https://i.imgur.com/xEYC8Eb.png)
