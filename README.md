@@ -40,6 +40,8 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 
 ## [Socialcops](https://socialcops.com/)
 
+Unapologetic about exploiting their employees. Convince employees it's okay because "Barack Obama works like this".
+
 > Last I checked, it was 3:07 am. I’ve been working since 11 am yesterday, and I’ll likely be in the office until 6 am when I’ll walk home, fall asleep for a few hours, and come back to do it all over again.
 
 > In a company survey, we learned that SocialCops employees pull an average of 5 all-nighters per month and work about 60 hours per week. Our office is open 24 hours a day, 7 days a week, and someone is usually working in the office at any given time, be it a Sunday afternoon or Friday evening.
@@ -47,5 +49,6 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 > Deepu often comes to work at 4 pm and leaves around 5 am. Krishna, another engineer, loves working in long continuous stretches — several days straight spent in the office alternating coding and Xbox — followed by a full day at home
 
 https://inc42.com/resources/socialcops-culture/
+
 https://www.slideshare.net/socialcops/socialcops-culture-and-values/27?src=clipshare
 ![](https://i.imgur.com/xEYC8Eb.png)
