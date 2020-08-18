@@ -65,3 +65,8 @@ https://www.slideshare.net/socialcops/socialcops-culture-and-values/27?src=clips
 (The Mumbai Floods are but a minor inconvenience, it seems. Thanks to <a href="https://twitter.com/harshalbot">@harshalbot</a>)
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">We have such people in our <a href="https://twitter.com/NowFloats?ref_src=twsrc%5Etfw">@nowfloats</a> family who challenge the challenges. <a href="https://twitter.com/GulatiSinghJ?ref_src=twsrc%5Etfw">@GulatiSinghJ</a> <a href="https://twitter.com/Rebel_Nitin?ref_src=twsrc%5Etfw">@Rebel_Nitin</a> <a href="https://twitter.com/rokrsa?ref_src=twsrc%5Etfw">@rokrsa</a> <a href="https://twitter.com/satishkohli13?ref_src=twsrc%5Etfw">@satishkohli13</a> <a href="https://twitter.com/hashtag/lakshyakoharhaalmeipaanahai?src=hash&amp;ref_src=twsrc%5Etfw">#lakshyakoharhaalmeipaanahai</a> <a href="https://t.co/tqc1xCtJPb">pic.twitter.com/tqc1xCtJPb</a></p>&mdash; Satyarth Shukla (@imsatyarth) <a href="https://twitter.com/imsatyarth/status/1016172434779590657?ref_src=twsrc%5Etfw">9 July 2018</a></blockquote>
 
+## [PaySend](https://paysend.com/)
+
+Apparently wants to create a cartel to vilify and blacklist candidates who dare to join another company instead of theirs.
+
+> There is a need of universal database of those candidates who take an offer letter from a company to go shopping around. I am pretty sure all the companies would feed information of such candidates to this database which would help just filter out any one part of this list - https://twitter.com/abhishek_tri/status/1293881125350313986
